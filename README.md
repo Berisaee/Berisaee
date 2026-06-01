@@ -5,6 +5,7 @@ I'm a Data Analyst Intern and Data Science enthusiast with hands-on experience i
 ---
 
 # 🌟 About Me
+
 - 🔭 Currently working on AI/ML and Generative AI projects
 - 🤖 Exploring LLMs, RAG Applications, and AI Agents
 - 📊 Interested in Data Science, Data Analytics, and Big Data
@@ -12,43 +13,8 @@ I'm a Data Analyst Intern and Data Science enthusiast with hands-on experience i
 
 ---
 
-# 🚀 Highlighted Projects
-## 💬 Multi-Document RAG Chatbot
-- Built using LangChain, Ollama, FAISS, and Streamlit
-- Supports querying across multiple uploaded documents
-- Implemented semantic search with vector embeddings
-
----
-
-## 🚦 Smart Traffic Management System
-- Real-time traffic processing using Apache Kafka & Spark Streaming
-- Integrated MongoDB and Flask APIs
-- Simulates and analyzes live traffic events
-
----
-
-## 🧠 Brain Tumor Detection using CNN (PyTorch)
-- Built using PyTorch and Convolutional Neural Networks
-- MRI-based tumor classification system
-- Applied Deep Learning for medical image analysis
-
----
-
-## 🤱 Maternal Health Risk Prediction System
-- Machine Learning-based healthcare prediction system
-- Predicts maternal health risk levels using clinical parameters
-- Implemented classification models for healthcare analytics
-
----
-
-## 💰 Loan Approval Prediction using ML
-- Predicts loan approval status using applicant data
-- Performed data preprocessing and feature engineering
-- Applied Machine Learning classification algorithms
-
----
-
 # 🛠️ Tech Toolbox
+
 - **Technologies:** Machine Learning, Deep Learning, NLP, Generative AI, Data Analysis & Visualization
 - **Languages:** Python, SQL, Java
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
@@ -90,6 +56,7 @@ I'm a Data Analyst Intern and Data Science enthusiast with hands-on experience i
 ---
 
 # ✨ Fun Facts
+
 - 🎵 Music boosts my coding productivity
 - 🤖 Passionate about Generative AI
 - 🧩 Love solving logical and analytical problems
