@@ -38,10 +38,10 @@ I'm a Data Analyst Intern and Data Science enthusiast with hands-on experience i
 
 ---
 
-# 🌐 Connect With Me
+## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sai-beri/)
-- 📧 berisai2606@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sai-beri/
+- 📧 Email: [berisai2606@gmail.com](mailto:berisai2606@gmail.com)
 
 ---
 
